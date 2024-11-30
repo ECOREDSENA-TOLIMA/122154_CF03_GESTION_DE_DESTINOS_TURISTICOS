@@ -16,8 +16,8 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
       .col-lg-8.col-12.col-md-10
         .cajon.cajon.color-secundario.p-4
-          .col-lg-10.col-12.mb-3
-            p En las oficinas de turismo municipales, la trazabilidad de la comunicación facilita un control eficaz sobre la información dirigida a turistas, empresas locales y otros interesados. Esto asegura que cada consulta, solicitud o queja sea atendida de manera oportuna, y permite documentar cualquier acción relacionada, como respuestas, seguimiento de promociones o manejo de conflictos.
+          .col-12
+            p.mb-0 En las oficinas de turismo municipales, la trazabilidad de la comunicación facilita un control eficaz sobre la información dirigida a turistas, empresas locales y otros interesados. Esto asegura que cada consulta, solicitud o queja sea atendida de manera oportuna, y permite documentar cualquier acción relacionada, como respuestas, seguimiento de promociones o manejo de conflictos.
 
     p.mb-5(data-aos="fade-left") La trazabilidad aplicada al turismo es esencial para:
 
@@ -108,11 +108,11 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
       .col-lg-10.col-12.col-md-10
-        .cajon.cajon1.color-primario.p-4
+        .cajon.cajon.color-secundario.p-4
           .row.justify-content-center.align-items-center
-            .col-lg-10.col-12.mb-3
-              p <b>Ejemplo</b>: un turista que solicita información sobre disponibilidad de hoteles recibe una respuesta inicial en menos de 24 horas, con la opción de continuar la conversación en caso de más preguntas. La oficina tiene como política interna responder consultas sencillas en un máximo de 48 horas.
-            .col-lg-2.col-6.col-md-5.mb-3
+            .col-lg-10.col-12.order-lg-1.order-2
+              p.mb-0 <b>Ejemplo</b>: un turista que solicita información sobre disponibilidad de hoteles recibe una respuesta inicial en menos de 24 horas, con la opción de continuar la conversación en caso de más preguntas. La oficina tiene como política interna responder consultas sencillas en un máximo de 48 horas.
+            .col-lg-2.col-6.col-md-5.order-lg-2.order-1.mb-lg-0.mb-3
               figure
                 img(src='@/assets/curso/temas/tema7/img07.svg', alt='Imagen decorativa')
     
@@ -120,13 +120,13 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
       .col-lg-10.col-12.col-md-10
-        .cajon.cajon.color-secundario.p-4
+        .cajon.cajon1.color-primario.p-4
           .row.justify-content-center.align-items-center
-            .col-lg-2.col-6.col-md-5.mb-3
+            .col-lg-2.col-6.col-md-5.order-lg-1.order-1.mb-lg-0.mb-3
               figure
                 img(src='@/assets/curso/temas/tema7/img08.svg', alt='Imagen decorativa')
-            .col-lg-10.col-12.mb-3
-              p <b>Ejemplo</b>: si un visitante se queja de la falta de señalización en un sendero turístico, la oficina de turismo tiene un tiempo de respuesta establecido de 7 días para investigar y responder con las medidas correctivas que se van a implementar.
+            .col-lg-10.col-12.order-lg-2.order-2
+              p.mb-0 <b>Ejemplo</b>: si un visitante se queja de la falta de señalización en un sendero turístico, la oficina de turismo tiene un tiempo de respuesta establecido de 7 días para investigar y responder con las medidas correctivas que se van a implementar.
 
     separador
     #t_7_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")

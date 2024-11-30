@@ -94,7 +94,7 @@
               img(src='@/assets/curso/temas/tema6/img10.png', alt='Imagen decorativa')
           .col-lg-7.order-lg-2.order-2
             p Involucra todas las interacciones y mensajes que la oficina de turismo envía a los visitantes, proveedores, asociaciones locales y otros interesados. Este tipo de comunicación permite que la  oficina de turismo  promocione los atractivos del destino y mantenga  informados a los turistas sobre eventos, actividades y servicios.
-            p <b>Ejemplo</b>: La oficina de turismo del municipio envía boletines electrónicos mensuales a agencias de viajes, incluyendo información actualizada sobre las actividades y promociones del destino, Facilitando así que las agencias puedan brindar información precisa los clientes.
+            p <b>Ejemplo</b>: la oficina de turismo del municipio envía boletines electrónicos mensuales a agencias de viajes, incluyendo información actualizada sobre las actividades y promociones del destino, Facilitando así que las agencias puedan brindar información precisa los clientes.
     
     .row.justify-content-center
       .col-lg-10.col-12
@@ -128,9 +128,9 @@
       .col-lg-10.col-12.col-md-10
         .cajon.cajon1.color-primario.p-4
           .row.justify-content-center.align-items-center
-            .col-lg-10.col-12.mb-3
-              p <b>Ejemplo</b>: la oficina de turismo elabora un folleto detallado sobre los sitios históricos del municipio, en el que se incluye una breve descripción de cada lugar, recomendaciones prácticas (como horarios y accesibilidad), un mapa interactivo, e imágenes representativas de los sitios destacados. El lenguaje es accesible y atractivo para asegurar que turistas de todas las edades puedan entender la información. Además, se distribuye en formato impreso en la oficina de turismo y en formato digital en el sitio web y redes sociales de la oficina, asegurando que la información llegue a un público amplio.
-            .col-lg-2.col-6.col-md-5.mb-3
+            .col-lg-10.col-12.order-lg-1.order-2
+              p.mb-0 <b>Ejemplo</b>: la oficina de turismo elabora un folleto detallado sobre los sitios históricos del municipio, en el que se incluye una breve descripción de cada lugar, recomendaciones prácticas (como horarios y accesibilidad), un mapa interactivo, e imágenes representativas de los sitios destacados. El lenguaje es accesible y atractivo para asegurar que turistas de todas las edades puedan entender la información. Además, se distribuye en formato impreso en la oficina de turismo y en formato digital en el sitio web y redes sociales de la oficina, asegurando que la información llegue a un público amplio.
+            .col-lg-2.col-6.col-md-5.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema6/img08.svg', alt='Imagen decorativa')
     
@@ -186,8 +186,8 @@
             .col-lg-2.col-6.col-md-5.mb-3
               figure
                 img(src='@/assets/curso/temas/tema6/img12.svg', alt='Imagen decorativa')
-            .col-lg-10.col-12.mb-3
-              p <b>Ejemplo</b>: una oficina de turismo municipal mantiene un sitio web multilingüe que ofrece información detallada sobre las principales actividades y puntos de interés en la región. La web incluye secciones dedicadas a alojamiento, gastronomía, rutas de senderismo y eventos culturales, junto con mapas descargables y recomendaciones personalizadas. Además, en sus redes sociales, la oficina pública regularmente imágenes y videos de alta calidad que destacan la belleza natural y cultural del destino, acompañados de descripciones y enlaces a la página de reserva o contacto.
+            .col-lg-10.col-12
+              p.mb-0 <b>Ejemplo</b>: una oficina de turismo municipal mantiene un sitio web multilingüe que ofrece información detallada sobre las principales actividades y puntos de interés en la región. La web incluye secciones dedicadas a alojamiento, gastronomía, rutas de senderismo y eventos culturales, junto con mapas descargables y recomendaciones personalizadas. Además, en sus redes sociales, la oficina pública regularmente imágenes y videos de alta calidad que destacan la belleza natural y cultural del destino, acompañados de descripciones y enlaces a la página de reserva o contacto.
     
     p(data-aos="fade-left") La comunicación turística eficaz no solo se enfoca en informar, sino en construir una experiencia que motive a los visitantes a conocer y explorar el destino, mejorando así su percepción y satisfacción.
 
@@ -232,9 +232,9 @@
       .col-lg-10.col-12.col-md-10
         .cajon.cajon1.color-primario.p-4
           .row.justify-content-center.align-items-center
-            .col-lg-10.col-12.mb-3
-              p <b>Ejemplo</b>: la oficina de turismo redacta una guía sobre festividades locales en la región, utilizando un lenguaje inclusivo y amigable. La guía invita a los turistas a sumergirse en la cultura local mediante descripciones vibrantes de las celebraciones y proporciona recomendaciones prácticas, como el mejor lugar para observar desfiles o probar platillos tradicionales. Además, incluye datos históricos y culturales que enriquecen la experiencia y permiten a los visitantes comprender el trasfondo de las festividades.
-            .col-lg-2.col-6.col-md-5.mb-3
+            .col-lg-10.col-12.order-lg-1.order-2
+              p.mb-0 <b>Ejemplo</b>: la oficina de turismo redacta una guía sobre festividades locales en la región, utilizando un lenguaje inclusivo y amigable. La guía invita a los turistas a sumergirse en la cultura local mediante descripciones vibrantes de las celebraciones y proporciona recomendaciones prácticas, como el mejor lugar para observar desfiles o probar platillos tradicionales. Además, incluye datos históricos y culturales que enriquecen la experiencia y permiten a los visitantes comprender el trasfondo de las festividades.
+            .col-lg-2.col-6.col-md-5.mb-3.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema6/img17.svg', alt='Imagen decorativa')
 
@@ -280,8 +280,8 @@
             .col-lg-2.col-6.col-md-5.mb-3
               figure
                 img(src='@/assets/curso/temas/tema6/img21.svg', alt='Imagen decorativa')
-            .col-lg-10.col-12.mb-3
-              p <b>Ejemplo</b>: La oficina de turismo del municipio organiza una rueda de prensa para presentar una nueva ruta gastronómica, que resalta los sabores tradicionales y el talento local. Para maximizar la visibilidad del evento, invita a periodistas y operadores turísticos de la región y difunde el lanzamiento en medios y redes sociales. De esta manera, no solo logra atraer la atención de un público amplio, sino que también fortalece el vínculo con la comunidad y el sector turístico local.
+            .col-lg-10.col-12
+              p.mb-0 <b>Ejemplo</b>: la oficina de turismo del municipio organiza una rueda de prensa para presentar una nueva ruta gastronómica, que resalta los sabores tradicionales y el talento local. Para maximizar la visibilidad del evento, invita a periodistas y operadores turísticos de la región y difunde el lanzamiento en medios y redes sociales. De esta manera, no solo logra atraer la atención de un público amplio, sino que también fortalece el vínculo con la comunidad y el sector turístico local.
 
     p(data-aos="fade-left") Las relaciones públicas en el ámbito turístico van más allá de la promoción; son una herramienta estratégica para construir una imagen positiva y estable, fomentar alianzas, y actuar proactivamente en la gestión de la reputación del destino.
 
@@ -335,9 +335,9 @@
       .col-lg-10.col-12.col-md-10
         .cajon.cajon1.color-primario.p-4
           .row.justify-content-center.align-items-center
-            .col-lg-10.col-12.mb-3
-              p <b>Ejemplo</b>: la oficina de turismo implementa una política de calidad comunicativa que exige revisiones trimestrales de todo el material informativo, como folletos, sitios web y redes sociales, para asegurar que la información sea actualizada, precisa y comprensible para todos los visitantes. Esta revisión ayuda a mantener un estándar de calidad en la comunicación, proporcionando una experiencia informativa confiable y atractiva para los turistas.
-            .col-lg-2.col-6.col-md-5.mb-3
+            .col-lg-10.col-12.order-lg-1.order-2
+              p.mb-0 <b>Ejemplo</b>: la oficina de turismo implementa una política de calidad comunicativa que exige revisiones trimestrales de todo el material informativo, como folletos, sitios web y redes sociales, para asegurar que la información sea actualizada, precisa y comprensible para todos los visitantes. Esta revisión ayuda a mantener un estándar de calidad en la comunicación, proporcionando una experiencia informativa confiable y atractiva para los turistas.
+            .col-lg-2.col-6.col-md-5.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema6/img08.svg', alt='Imagen decorativa')
 

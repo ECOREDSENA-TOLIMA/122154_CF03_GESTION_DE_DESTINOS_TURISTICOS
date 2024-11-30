@@ -131,7 +131,7 @@
           .col-lg-6.col-12.order-lg-1.order-2
             p.mb-3 Son documentos internacionales o regionales que, al igual que los códigos, buscan guiar el desarrollo del turismo de manera sostenible y responsable. Un ejemplo de ello es la Carta Mundial del Turismo Sostenible, que promueve un equilibrio entre el crecimiento económico y la protección del medio ambiente y las culturas locales.
             .cajon.cajon2.color-secundario.p-4
-             p.mb-3 Estos códigos y cartas proporcionan un marco ético global que debe guiar tanto a las empresas turísticas como a los turistas, asegurando que el turismo sea una actividad respetuosa y beneficiosa para todas las partes involucradas.
+             p.mb-0 Estos códigos y cartas proporcionan un marco ético global que debe guiar tanto a las empresas turísticas como a los turistas, asegurando que el turismo sea una actividad respetuosa y beneficiosa para todas las partes involucradas.
           .col-lg-6.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema4/img12.png', alt='Imagen decorativa')

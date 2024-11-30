@@ -106,8 +106,8 @@
               img(src='@/assets/curso/temas/tema2/img12.png', alt='Imagen decorativa')
           .col-lg-6.col-12
             .cajon.cajon.color-secundario.p-4.mb-3
-              p El protocolo se refiere a las reglas formales que guían las interacciones en eventos o situaciones oficiales, asegurando un ambiente ordenado y respetuoso. La etiqueta trata sobre las normas de cortesía y comportamiento adecuado en las interacciones personales, especialmente en el trato con los turistas, donde la amabilidad y el respeto son esenciales
-            p Por otro lado, la netiqueta empresarial ha ganado relevancia en la era digital, ya que muchos turistas interactúan con las oficinas de turismo a través de plataformas en línea. Shea (1994), define la netiqueta como un conjunto de normas de comportamiento en la comunicación digital, que en el ámbito turístico incluye la cortesía al responder correos electrónicos, mensajes en redes sociales, y el manejo adecuado de foros de discusión y chats.
+              p.mb-0 El protocolo se refiere a las reglas formales que guían las interacciones en eventos o situaciones oficiales, asegurando un ambiente ordenado y respetuoso. La etiqueta trata sobre las normas de cortesía y comportamiento adecuado en las interacciones personales, especialmente en el trato con los turistas, donde la amabilidad y el respeto son esenciales
+            p.mb-0 Por otro lado, la netiqueta empresarial ha ganado relevancia en la era digital, ya que muchos turistas interactúan con las oficinas de turismo a través de plataformas en línea. Shea (1994), define la netiqueta como un conjunto de normas de comportamiento en la comunicación digital, que en el ámbito turístico incluye la cortesía al responder correos electrónicos, mensajes en redes sociales, y el manejo adecuado de foros de discusión y chats.
 
     p.mb-5(data-aos="fade-left") Para contextualizar, se puede resumir de la siguiente manera:
 
@@ -157,8 +157,10 @@
         .col-lg-12.col-10
           figure.desktop
             img(src='@/assets/curso/temas/tema2/img16.svg', alt=' En la figura 1 se presentan las habilidades blandas, como la gestión de conflictos, el manejo del tiempo, la comunicación efectiva y la inteligencia emocional, son esenciales para el éxito laboral. Estas competencias interpersonales permiten a los profesionales interactuar eficazmente, adaptarse a cambios y generar un ambiente de trabajo positivo.')
+            figcaption Nota: Gestión. (2024). Las 10 habilidades blandas que demandará el mercado laboral en el futuro.
           figure.movil
             img(src='@/assets/curso/temas/tema2/img17.svg', alt=' En la figura 1 se presentan las habilidades blandas, como la gestión de conflictos, el manejo del tiempo, la comunicación efectiva y la inteligencia emocional, son esenciales para el éxito laboral. Estas competencias interpersonales permiten a los profesionales interactuar eficazmente, adaptarse a cambios y generar un ambiente de trabajo positivo.')
+            figcaption Nota: Gestión. (2024). Las 10 habilidades blandas que demandará el mercado laboral en el futuro.
     
     p.mb-5(data-aos="fade-left") Las habilidades blandas permiten a los funcionarios de una oficina de turismo territorial interactuar eficazmente con los turistas. Estas incluyen la empatía, la capacidad para trabajar en equipo, la resolución de conflictos, la adaptabilidad y la comunicación asertiva.
 

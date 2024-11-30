@@ -26,44 +26,44 @@
 
     PasosA.color-acento-contenido.mb-5(tipo="l")(data-aos="flip-up")
       .row.justify-content-center.align-items-center
-        .col-lg-9.col-md-8.col-12.mb-4.mb-md-0
+        .col-lg-9.col-md-8.col-12.mb-4.mb-md-0.order-lg-1.order-2.order-md-1.order-2
           h3 Relevancia y exactitud
           p La información debe ser precisa, actual y pertinente para las necesidades de la organización, de modo que pueda ser utilizada para tomar decisiones informadas y eficientes.
-        .col-lg-2.col-md-4.col-8
+        .col-lg-2.col-md-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4.order-md-2.order
           figure
             img(src='@/assets/curso/temas/tema5/img02.svg', alt='Imagen decorativa')
 
       .row.justify-content-center.align-items-center
-        .col-lg-2.col-md-4.col-8.mb-3
+        .col-lg-2.col-md-4.col-8.mb-3.order-lg-1.order-1.mb-lg-0.mb-4.order-md-1.order-1
           figure
             img(src='@/assets/curso/temas/tema5/img03.svg', alt='Imagen decorativa')
-        .col-lg-9.col-md-8.col-12.mb-4.mb-md-0
+        .col-lg-9.col-md-8.col-12.mb-4.mb-md-0.order-lg-2.order-2
           h3 Accesibilidad
           p Los datos deben estar disponibles de manera oportuna y accesible para las personas que los necesiten, asegurando que no existan barreras innecesarias ni tiempos de espera prolongados que puedan retrasar procesos clave.
         
       .row.justify-content-center.align-items-center
-        .col-lg-9.col-md-8.col-12.mb-4.mb-md-0
+        .col-lg-9.col-md-8.col-12.mb-4.mb-md-0.order-lg-1.order-2.order-md-1.order-2
           h3 Seguridad
           p La protección de la información es crucial para evitar el acceso no autorizado, la pérdida o el daño de los datos. Esto incluye no solo la implementación de medidas de seguridad digitales, sino también el cumplimiento de regulaciones de privacidad como la Ley de Protección de Datos, que resguarda la confidencialidad y el uso adecuado de la información personal.
-        .col-lg-2.col-md-4.col-8
+        .col-lg-2.col-md-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4.order-md-2.order-1
           figure
             img(src='@/assets/curso/temas/tema5/img04.svg', alt='Imagen decorativa')
         
         
       .row.justify-content-center.align-items-center
-        .col-lg-2.col-md-4.col-8.mb-3
+        .col-lg-2.col-md-4.col-8.order-lg-1.order-1.mb-lg-0.mb-4.order-md-1.order-1
           figure
             img(src='@/assets/curso/temas/tema5/img05.svg', alt='Imagen decorativa')
-        .col-lg-9.col-md-8.col-12.mb-4.mb-md-0
+        .col-lg-9.col-md-8.col-12.mb-4.mb-md-0.order-lg-2.order-2.order-md-2.order-2
           h3 Calidad
           p La información debe ser completa, consistente, precisa y comprensible. La calidad de la información influye directamente en la efectividad de la toma de decisiones, por lo que es esencial contar con datos confiables y bien estructurados.
         
 
       .row.justify-content-center.align-items-center
-        .col-lg-9.col-md-8.col-12.mb-4.mb-md-0
+        .col-lg-9.col-md-8.col-12.mb-4.mb-md-0.order-lg-1.order-2.order-md-1.order-2
           h3 Almacenamiento eficiente
           p Las organizaciones deben contar con sistemas de almacenamiento que garanticen la conservación segura de la información y faciliten su recuperación rápida cuando sea necesario. Esto puede incluir soluciones tecnológicas como bases de datos y sistemas de gestión documental que optimicen el acceso y la organización de los datos.
-        .col-lg-2.col-md-4.col-8
+        .col-lg-2.col-md-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4.order-md-2.order-1
           figure
             img(src='@/assets/curso/temas/tema5/img06.svg', alt='Imagen decorativa')
 
@@ -71,7 +71,7 @@
       .col-lg-8.col-12.col-md-10
         .row.justify-content-center.align-items-center
           .cajon.cajon.color-secundario.p-4
-            p <b>Ejemplo</b>: en una empresa de turismo, la gestión de la información implica la administración de datos sobre reservas, preferencias de clientes, y estadísticas de destinos turísticos. Esto asegura que los agentes de viaje tengan acceso rápido y preciso a la información necesaria para hacer recomendaciones personalizadas y mejorar los servicios ofrecidos a los clientes.
+            p.mb-0 <b>Ejemplo</b>: en una empresa de turismo, la gestión de la información implica la administración de datos sobre reservas, preferencias de clientes, y estadísticas de destinos turísticos. Esto asegura que los agentes de viaje tengan acceso rápido y preciso a la información necesaria para hacer recomendaciones personalizadas y mejorar los servicios ofrecidos a los clientes.
 
     separador
     #t_5_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -172,7 +172,7 @@
               figure
                 img(src='@/assets/curso/temas/tema5/img14.png', alt='Imagen decorativa')
 
-          .row(numero="1" titulo="Retroalimentación")
+          .row(numero="3" titulo="Retroalimentación")
             .col-12.mb-5.mb-md-0.order-lg-1.order-2.mb-lg-0
               p Es esencial que el proceso de comunicación permita la retroalimentación, permitiendo a los receptores hacer preguntas, expresar inquietudes o confirmar su comprensión de la información recibida.
 
@@ -182,7 +182,7 @@
               figure
                 img(src='@/assets/curso/temas/tema5/img15.png', alt='Imagen decorativa')
 
-          .row(numero="1" titulo="Comunicación interna y externa")
+          .row(numero="4" titulo="Comunicación interna y externa")
             .col-12.mb-5.mb-md-0.order-lg-1.order-2.mb-lg-0
               p La comunicación interna se refiere al flujo de información entre empleados y departamentos, mientras que la comunicación externa se enfoca en las interacciones de la organización con clientes, proveedores y otros actores externos.
 
@@ -192,7 +192,7 @@
               figure
                 img(src='@/assets/curso/temas/tema5/img16.png', alt='Imagen decorativa')
 
-          .row(numero="1" titulo="Tecnologías de la información")
+          .row(numero="5" titulo="Tecnologías de la información")
             .col-12.mb-5.mb-md-0.order-lg-1.order-2.mb-lg-0
               p Las herramientas digitales, como los sistemas de gestión de relaciones con los clientes (CRM), aplicaciones de colaboración y plataformas de mensajería, son esenciales para facilitar la comunicación y asegurar un flujo de información eficiente.
 

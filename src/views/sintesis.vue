@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p.mb-5(data-aos="fade-right") A_continuación_se_muestra_un_mapa_conceptual
+    p.mb-5(data-aos="fade-right") La Gestión de solicitudes de servicio en las oficinas de turismo de los municipios, entidades privadas y organizaciones no gubernamentales dedicadas a actividades turísticas se describen a continuación, partiendo desde el servicio al cliente, como eje articulador en las solicitudes de servicio; las peticiones, quejas, reclamos, sugerencias y felicitaciones y la ética en la atención al público. Se incluye, además, la gestión de la información en los diferentes procesos y los canales de comunicación empleados en las organizaciones turísticas para con sus clientes, visitantes, personal interno y externo. Finalmente, se aborda la trazabilidad a la comunicación, con sus tiempos de respuesta y reportes, como se presenta a continuación:
 
     .row.justify-content-center
       .col-lg-10.mb-5(data-aos="fade-right")

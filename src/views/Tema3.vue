@@ -21,8 +21,8 @@
               img(src='@/assets/curso/temas/tema3/img02.png', alt='Imagen decorativa')
           .col-lg-8.col-12
             .cajon.cajon.color-secundario.p-4.mb-3
-              p La implementación de un sistema PQRSF bien gestionado no solo facilita una comunicación eficiente entre la organización y los usuarios, sino que también fomenta la transparencia, la confianza y la satisfacción del cliente. Este sistema proporciona a los usuarios un medio formal y accesible para expresar sus inquietudes y expectativas, lo cual permite a las organizaciones responder de manera oportuna y eficaz.
-            p Además, las respuestas adecuadas a las peticiones y quejas pueden mejorar la imagen de la organización y fortalecer la relación con los clientes, mientras que las sugerencias y felicitaciones ofrecen valiosa retroalimentación sobre aspectos positivos y áreas de oportunidad. En resumen, el sistema PQRSF es una herramienta fundamental para la gestión de la calidad y la mejora continua, asegurando que los servicios o productos ofrecidos se ajusten mejor a las necesidades y expectativas de los usuarios.
+              p.mb-0 La implementación de un sistema PQRSF bien gestionado no solo facilita una comunicación eficiente entre la organización y los usuarios, sino que también fomenta la transparencia, la confianza y la satisfacción del cliente. Este sistema proporciona a los usuarios un medio formal y accesible para expresar sus inquietudes y expectativas, lo cual permite a las organizaciones responder de manera oportuna y eficaz.
+            p.mb-0 Además, las respuestas adecuadas a las peticiones y quejas pueden mejorar la imagen de la organización y fortalecer la relación con los clientes, mientras que las sugerencias y felicitaciones ofrecen valiosa retroalimentación sobre aspectos positivos y áreas de oportunidad. En resumen, el sistema PQRSF es una herramienta fundamental para la gestión de la calidad y la mejora continua, asegurando que los servicios o productos ofrecidos se ajusten mejor a las necesidades y expectativas de los usuarios.
 
     separador
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")

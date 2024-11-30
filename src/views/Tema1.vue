@@ -141,7 +141,7 @@
           .col-lg-8.col-12.order-lg-1.order-2
             p.mb-3 La política y el protocolo de servicio al cliente para atender al público y organizaciones comunitarias desde entidades estatales, ONG y entidades mixtas establecen directrices y procedimientos que aseguran una atención adecuada, equitativa y eficiente a estos grupos. Su objetivo es proporcionar un trato respetuoso y transparente, adaptado a las necesidades de personas, grupos o colectivos locales, facilitando la interacción y el acceso a los servicios institucionales.
             .cajon.cajon1.color-primario.p-4
-             p.mb-3 Implementar una política y protocolo de servicio garantiza que el público y las organizaciones comunitarias, esenciales para el desarrollo social y local, reciban atención adecuada, fortaleciendo así su relación con la entidad prestadora del servicio.
+             p.mb-0 Implementar una política y protocolo de servicio garantiza que el público y las organizaciones comunitarias, esenciales para el desarrollo social y local, reciban atención adecuada, fortaleciendo así su relación con la entidad prestadora del servicio.
           .col-lg-4.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema1/img11.svg', alt='Imagen decorativa')
