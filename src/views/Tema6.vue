@@ -63,11 +63,11 @@
       .col-lg-10.col-12.col-md-10
         .cajon.cajon.color-secundario.p-4
           .row.justify-content-center.align-items-center
-            .col-lg-2.col-6.col-md-5.mb-3
+            .col-lg-2.col-6.col-md-5.mb-2
               figure
                 img(src='@/assets/curso/temas/tema6/img08.svg', alt='Imagen decorativa')
-            .col-lg-10.col-12.mb-3
-              p <b>Ejemplo</b>: una oficina de turismo utiliza su página web y redes sociales para promocionar eventos culturales y actividades locales, complementando con atención personalizada en la oficina física para responder a las consultas de los turistas.
+            .col-lg-10.col-12
+              p.mb-0 <b>Ejemplo</b>: una oficina de turismo utiliza su página web y redes sociales para promocionar eventos culturales y actividades locales, complementando con atención personalizada en la oficina física para responder a las consultas de los turistas.
     
     p(data-aos="fade-left") La elección adecuada y el uso eficiente de estos canales garantiza que los turistas reciban información precisa y accesible, mejorando su experiencia y fomentando una conexión positiva con el destino.
 

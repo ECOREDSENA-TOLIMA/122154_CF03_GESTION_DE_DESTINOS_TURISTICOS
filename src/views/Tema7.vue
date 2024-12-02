@@ -146,7 +146,7 @@
             p Un informe que detalla cuántas consultas se recibieron en un período de tiempo, cuántas fueron respondidas, y el estado actual de las que están pendientes.
             p <b>Ejemplo</b>: el jefe de la oficina de turismo presenta un informe mensual que muestra que se atendieron 500 consultas en junio, de las cuales el 95 % fueron resueltas en menos de 24 horas.
 
-      .py-3.py-md-4(titulo="Comunicación externa")
+      .py-3.py-md-4(titulo="Tiempos de respuesta")
         .row.justify-content-center.p-4
           .col-lg-7.col-10.order-lg-1.order-1.mb-lg-0.mb-4
             figure
@@ -155,7 +155,7 @@
             p Un informe que mide el tiempo promedio de respuesta para diferentes tipos de comunicaciones. Este tipo de reporte ayuda a identificar posibles demoras o cuellos de botella en la atención al turista.
             p <b>Ejemplo</b>: el informe de tiempos de respuesta muestra que el equipo tardó en promedio 2 horas en responder a las consultas telefónicas, mientras que las consultas recibidas por correo electrónico demoraron en promedio 36 horas.
 
-      .py-3.py-md-4(titulo="Comunicación externa")
+      .py-3.py-md-4(titulo="Quejas y resoluciones")
         .row.justify-content-center.p-4
           .col-lg-7.col-10.order-lg-1.order-1.mb-lg-0.mb-4
             figure
@@ -164,7 +164,7 @@
             p Documento que resume las quejas recibidas, su gravedad, y las acciones tomadas para resolverlas. Este tipo de reporte es esencial para asegurar que las quejas se manejen de manera justa y oportuna, y para mejorar la calidad del servicio.
             p <b>Ejemplo</b>: en el informe de quejas del último trimestre, se indica que la oficina recibió 15 quejas sobre la falta de información en ciertos idiomas, y se tomó la decisión de agregar más idiomas a los folletos informativos.
 
-      .py-3.py-md-4(titulo="Comunicación externa")
+      .py-3.py-md-4(titulo="Satisfacción del turista")
         .row.justify-content-center.p-4
           .col-lg-7.col-10.order-lg-1.order-1.mb-lg-0.mb-4
             figure
