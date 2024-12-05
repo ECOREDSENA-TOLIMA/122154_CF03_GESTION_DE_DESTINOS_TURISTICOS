@@ -165,7 +165,7 @@ export default {
       {
         titulo: 'Equidad',
         texto:
-          'Asegurar un trato justo para todos los cliente, independientemente de su origen, nivel económico o preferencias, evitando sesgos o favoritismos.',
+          'Asegurar un trato justo para todos los clientes, independientemente de su origen, nivel económico o preferencias, evitando sesgos o favoritismos.',
         imagen: require('@/assets/curso/temas/tema4/img05.png'),
       },
       {

@@ -106,7 +106,7 @@
               img(src='@/assets/curso/temas/tema2/img12.png', alt='Imagen decorativa')
           .col-lg-6.col-12
             .cajon.cajon.color-secundario.p-4.mb-3
-              p.mb-0 El protocolo se refiere a las reglas formales que guían las interacciones en eventos o situaciones oficiales, asegurando un ambiente ordenado y respetuoso. La etiqueta trata sobre las normas de cortesía y comportamiento adecuado en las interacciones personales, especialmente en el trato con los turistas, donde la amabilidad y el respeto son esenciales
+              p.mb-0 El protocolo se refiere a las reglas formales que guían las interacciones en eventos o situaciones oficiales, asegurando un ambiente ordenado y respetuoso. La etiqueta trata sobre las normas de cortesía y comportamiento adecuado en las interacciones personales, especialmente en el trato con los turistas, donde la amabilidad y el respeto son esenciales.
             p.mb-0 Por otro lado, la netiqueta empresarial ha ganado relevancia en la era digital, ya que muchos turistas interactúan con las oficinas de turismo a través de plataformas en línea. Shea (1994), define la netiqueta como un conjunto de normas de comportamiento en la comunicación digital, que en el ámbito turístico incluye la cortesía al responder correos electrónicos, mensajes en redes sociales, y el manejo adecuado de foros de discusión y chats.
 
     p.mb-5(data-aos="fade-left") Para contextualizar, se puede resumir de la siguiente manera:
@@ -152,7 +152,7 @@
       .col-lg-12.col-10
         .titulo-sexto.color-acento-contenido
           h5 Figura 1.
-          span <i>Las 10 habilidades blandas que demandará el mercado laboral en el futuro.</i>
+          span <em>Las 10 habilidades blandas que demandará el mercado laboral en el futuro.</em>
       .row.justify-content-center
         .col-lg-12.col-10
           figure.desktop

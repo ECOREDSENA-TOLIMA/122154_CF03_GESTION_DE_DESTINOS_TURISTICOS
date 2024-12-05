@@ -119,7 +119,7 @@
               figure
                 img(src='@/assets/curso/temas/tema3/img08.png', alt='Imagen decorativa')
 
-    p(data-aos="fade-left") El manejo adecuado de los trámites es esencial para garantizar que los usuarios obtengan respuestas efectivas y oportunas, cumpliendo con los plazos establecidos y manteniendo altos estándares de calidad en el servicio. Un proceso de trámite bien gestionado mejora la satisfacción del cliente y contribuye a la eficiencia organizacional.
+    p(data-aos="fade-left") El manejo adecuado de los trámites es esencial para garantizar que los usuarios obtengan respuestas efectivas y oportunas, cumpliendo con los plazos establecidos y manteniendo altos estándares de calidad en el servicio. Un proceso de trámite bien gestionado, mejora la satisfacción del cliente y contribuye a la eficiencia organizacional.
 
     separador
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")

@@ -109,7 +109,7 @@
                     p.mb-0 <b>Servicios profesionales</b>: ofrecidos por expertos en áreas como medicina, derecho y consultoría.
                   li.mb-3 
                     i.lista-ul__vineta
-                    p.mb-0 <b>Servicios postventa</b>: asistencia después de una compra, incluyendo mantenimiento y soporte técnico.
+                    p.mb-0 <b>Servicios posventa</b>: asistencia después de una compra, incluyendo mantenimiento y soporte técnico.
               figure.mb-3
                 img(src='@/assets/curso/temas/tema1/img09.png', alt='Imagen decorativa')
 

@@ -187,7 +187,7 @@
               figure
                 img(src='@/assets/curso/temas/tema6/img12.svg', alt='Imagen decorativa')
             .col-lg-10.col-12
-              p.mb-0 <b>Ejemplo</b>: una oficina de turismo municipal mantiene un sitio web multilingüe que ofrece información detallada sobre las principales actividades y puntos de interés en la región. La web incluye secciones dedicadas a alojamiento, gastronomía, rutas de senderismo y eventos culturales, junto con mapas descargables y recomendaciones personalizadas. Además, en sus redes sociales, la oficina pública regularmente imágenes y videos de alta calidad que destacan la belleza natural y cultural del destino, acompañados de descripciones y enlaces a la página de reserva o contacto.
+              p.mb-0 <b>Ejemplo</b>: una oficina de turismo municipal mantiene un sitio web multilingüe que ofrece información detallada sobre las principales actividades y puntos de interés en la región. La web incluye secciones dedicadas a alojamiento, gastronomía, rutas de senderismo y eventos culturales, junto con mapas descargables y recomendaciones personalizadas. Además, en sus redes sociales, la oficina publica regularmente imágenes y videos de alta calidad que destacan la belleza natural y cultural del destino, acompañados de descripciones y enlaces a la página de reserva o contacto.
     
     p(data-aos="fade-left") La comunicación turística eficaz no solo se enfoca en informar, sino en construir una experiencia que motive a los visitantes a conocer y explorar el destino, mejorando así su percepción y satisfacción.
 

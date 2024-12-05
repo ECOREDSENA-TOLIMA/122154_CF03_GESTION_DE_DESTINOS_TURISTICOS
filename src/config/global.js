@@ -341,7 +341,7 @@ export default {
     {
       referencia:
         'EOI. (2014). La importancia de la escucha activa en la comunicación. Escuela de Organización Industrial.',
-      link: 'https://www.eoi.es',
+      link: '',
     },
     {
       referencia:
